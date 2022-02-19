@@ -1,0 +1,174 @@
+*{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    background-color: white;
+}
+.container{
+    width:1100px;
+     
+}
+.container_main{
+
+    display:flex;
+ 
+    
+}
+.row{
+     display:flex;
+     flex-wrap:wrap;
+     float: left;
+     
+     
+}
+
+header{
+    padding: 25px 10px 70px 130px;
+    background-color: rgb(22, 126, 107);
+    
+}
+.header_logo{
+    width: 140px;
+    height: 35px;
+    background-color: rgb(22, 126, 107) ;
+    padding: 5px 10px 15px 35px; 
+}
+.header_nav{
+width: 100px;
+background-color: rgb(22, 126, 107);
+font-size: 10px;
+padding: 20px 35px 20px 15px;
+
+
+}
+.header_nav a{
+    text-decoration: none;
+    color: white;
+    padding:10px 2px 10px 2px;
+    background-color: rgb(22, 126, 107);
+ 
+    
+}
+.main_line h5{
+    font-size: 32px;
+    font-weight: 380;
+    padding: 90px 20px 5px 280px;  
+}
+.main_line h6{
+    font-size: 16px;
+    font-weight: 380;
+    padding: 250px 20px 50px 280px;
+   
+   
+}
+.phone_logo{
+    width: 290px;
+    height: 490px;
+    padding-top: 30px;
+    padding-left: 50px;
+    float: right;    
+    margin: 0 0 0 15px;
+   
+}
+.img_class{
+    padding: 10px 10px 10px 10px;
+}
+
+.block1{
+    padding:10px 2px 0px 10px;
+    margin:100px 12px 10px 0px;
+  
+    background-color: rgb(176, 211, 228);
+    height: 850px;
+    width: 500px;
+}
+
+.block1 h4{
+    font-size: 32px;
+    padding-left:60px;
+    background-color: rgb(176, 211, 228);
+}
+.block1 p{
+    font-size: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    background-color: rgb(176, 211, 228);
+    
+}
+.left{
+    width: 350px;
+    height: 490px;
+    padding-top: 30px;
+    padding-left: 20px;   
+    margin: 0 0 0 15px;
+    background-color: rgb(176, 211, 228);
+
+}
+.right{
+
+    width: 250px;
+    height: 190px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom:20px;   
+    margin: 0 0 0 15px;
+    background-color: rgb(176, 211, 228);
+
+}
+.container_1box{
+    
+    display:flex;
+   
+    padding: 10px 10px 10px 10px;
+    margin: 2px 1px 2px 0px;
+
+}
+.right_float{
+
+    padding:1px 1px 1px 40px;
+    margin:100px 2px 10px 4px;
+   
+    background-color: rgb(176, 211, 228);
+
+}
+.right_float p{
+    font-size:18px;
+    padding-left:20px;
+    background-color: rgb(176, 211, 228);
+}
+.h3right{
+    font-size: 32px;
+    padding-left:70px;
+    background-color: rgb(176, 211, 228);
+}
+.down{
+    font-size: 10px;
+}
+
+
+.block2{
+    padding:1px 2px 2px 10px;
+    margin:100px 12px 10px 0px;
+    
+    background-color: rgb(176, 211, 228);
+    height: 740px;
+    width: 500px;
+}
+.contfoo{
+    padding:1px 2px 2px 10px;
+    margin:100px 12px 10px 0px;
+  
+    background-color: rgb(12, 7, 80);
+    height: 400px;
+    width: 1100px;
+}
+.foo{
+padding-left: 100px;
+padding-top: 40px;
+background-color: rgb(12, 7, 80);
+
+}
+.foo h3{
+  color: white;
+  background-color: rgb(12, 7, 80);
+
+}
